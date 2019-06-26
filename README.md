@@ -1,7 +1,7 @@
 # Game.NET
 A lightweight game engine written in C# that utilizes Microsoft's DirectX API.
 
-## Rerequirements
+## Requirements
 These are the components that this library has been tested with.
 * DirextX 11
 * .NET Framework 4.6.1
